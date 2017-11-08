@@ -34,10 +34,7 @@ public class GameManager : MonoBehaviour
         {
             SceneManager.LoadScene("DeadScene");
         }
-        else
-        {
-            textLifes.text = TEXT_LIFES + lifesPlayer;
-        }
+        
     }
 
     public void EnemyDie()
