@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: ef39a0b71fd2afc46b297e6f45147068
+timeCreated: 1510585096
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemi_0
+    21300002: enemi_1
+    21300004: enemi_2
+    21300006: enemi_3
+    21300008: enemi_4
+    21300010: enemi_5
+    21300012: enemi_6
+    21300014: enemi_7
+    21300016: enemi_8
+    21300018: enemi_9
+    21300020: enemi_10
+    21300022: enemi_11
+    21300024: enemi_12
+    21300026: enemi_13
+    21300028: enemi_14
+    21300030: enemi_15
+    21300032: enemi_16
+    21300034: enemi_17
+    21300036: enemi_18
+    21300038: enemi_19
+    21300040: enemi_20
+    21300042: enemi_21
+    21300044: enemi_22
+    21300046: enemi_23
+    21300048: enemi_24
+    21300050: enemi_25
+    21300052: enemi_26
+    21300054: enemi_27
+    21300056: enemi_28
+    21300058: enemi_29
+    21300060: enemi_30
+    21300062: enemi_31
+    21300064: enemi_32
+    21300066: enemi_33
+    21300068: enemi_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 334.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 334.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 334.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 334.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 334.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 334.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 251.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 251.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 251.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 251.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 251.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 251.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 168.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 168.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 168.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 168.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 168.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 168.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 85.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 85.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 85.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 85.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 85.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 85.4
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000015
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2.4000015
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2.4000015
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2.4000015
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2.4000015
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2.4000015
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemi_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2.4000015
+        width: 81.14286
+        height: 83.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

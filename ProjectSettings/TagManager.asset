@@ -8,6 +8,7 @@ TagManager:
   - HitEnemy
   - HitPlayer
   - Heart
+  - Platform
   layers:
   - Default
   - TransparentFX

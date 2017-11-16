@@ -30,7 +30,8 @@ public class GameManager : MonoBehaviour
     public void PlayerDie()
     {
         lifesPlayer--;
-        if(lifesPlayer <= 0)
+        textLifes.text = TEXT_LIFES + lifesPlayer;
+        if (lifesPlayer <= 0)
         {
             SceneManager.LoadScene("DeadScene");
         }
@@ -42,7 +43,7 @@ public class GameManager : MonoBehaviour
         lifesEnemy--;
         if(lifesEnemy <= 0)
         {
-            SceneManager.LoadScene("WinScene");
+            SceneManager.LoadScene("SecondScene");
         }
        
     }

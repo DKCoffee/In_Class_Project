@@ -23,5 +23,9 @@ public class BulletScript : MonoBehaviour {
         {
             Destroy(this.gameObject);
         }
+        if (collision.tag == "Platform")
+        {
+            Destroy(this.gameObject);
+        }
     }
 }
